@@ -148,7 +148,7 @@ To run only the tests with specific tag(s) use the `--cucumberOpts.tagExpression
 $ npx wdio wdio.conf.js --cucumberOpts.tagExpression='@Tag or @AnotherTag'
 ```
 
-For more tag options please see the [Cucumber.js documentation](https://docs.cucumber.io/tag-expressions/)
+For more tag options please see the [Cucumber.js documentation](https://cucumber.io/docs/cucumber/api/#tag-expressions)
 
 # Pending test
 
